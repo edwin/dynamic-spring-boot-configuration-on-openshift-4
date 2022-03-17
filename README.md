@@ -4,5 +4,5 @@ A simple Java project for showing capabilities of reloading configuration for a 
 
 ## Blog Post
 ```
-TBD
+https://edwin.baculsoft.com/2022/03/dynamic-spring-boot-configuration-using-configmap-on-top-of-openshift-4/
 ```
